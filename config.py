@@ -1,0 +1,5 @@
+DB_USER = "SYSTEM"
+DB_PASS = "Fidelitas.20"
+DB_HOST = "localhost"
+DB_PORT = "1521"
+DB_SERVICE = "XE"  
